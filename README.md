@@ -19,7 +19,7 @@ This repository contains my solutions for the **CO5241 Machine Learning** practi
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/izunwaonu/CO5241_Machine_Learning.git
+   git clone https://github.com/izunwaonu/CO5241_Machine_Learning-main.git
 ## How to Access and Run Each Question  
 
 This repository contains both **PDF explanations** and **Python implementations** for each question. Follow the instructions below to access and run the solutions.  
