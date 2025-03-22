@@ -2,7 +2,7 @@
 
 This repository contains my solutions for the **CO5241 Machine Learning** practical assignment.  
 
-## 📌 Contents  
+## Contents  
 - **Step-by-step explanations** for each question (PDF format)  
 - **Python implementations** using Jupyter Notebook  
 - **Cheat Sheet** covering key ML concepts  
@@ -16,7 +16,7 @@ This repository contains my solutions for the **CO5241 Machine Learning** practi
   - k-NN  
   - Hidden Markov Models  
 
-## 🚀 How to Use  
+## How to Use  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/izunwaonu/CO5241_Machine_Learning.git
