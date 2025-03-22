@@ -27,7 +27,7 @@ This repository contains both **PDF explanations** and **Python implementations*
 ### **Step 1: Access the PDF Solutions**  
 Each question has a detailed step-by-step explanation stored in the `reports/` folder.  
 
-- **Question 1 PDF:** [`reports/question_1.pdf`](reports/question_1.pdf)   
+- **Question 1 PDF:** [`reports/question_1.pdf`](reports/_CO5241_Question_1.pdf)   
 
 ### ** Step 2: Run the Python Code**  
 The Python scripts for each question are located inside the `solutions/` directory.  
